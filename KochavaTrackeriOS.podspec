@@ -25,6 +25,7 @@ DESC
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'Commercial', :file => 'LICENSE' }
   s.author       = { 'Kochava' => 'support@kochava.com' }
+  s.module_name  = 'KochavaTrackeriOS'
   s.source           = { :git => 'https://github.com/Kochava/kochava-tracker-ios-sdk-cocoapod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
